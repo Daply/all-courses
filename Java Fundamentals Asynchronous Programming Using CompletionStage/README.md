@@ -7,4 +7,4 @@ Repository contains project with examples from the course with additional experi
 
 For using aspectj for TimeMeasured annotation it is needed to set aspectj compiler:
 
-![alt text](https://github.com/Daply/all-courses/blob/master/aspectj_compiler_setting/intellij.png)
+![alt text](https://github.com/Daply/all-courses/blob/main/Java%20Fundamentals%20Asynchronous%20Programming%20Using%20CompletionStage/aspectj_compiler_setting/intellij.png)
